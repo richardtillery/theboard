@@ -1,0 +1,29 @@
+<div class="container-fluid">
+
+	<h1>Games:</h1>
+
+	<table>
+		<thead>
+			<tr>
+				<th>Matchup</th>
+				<th>Gameday</th>
+				<th>BG</th>
+				<th>Dave</th>
+				<th>Tillery</th>
+				<th>Prediction</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="game in games">
+				<td>{{game.opp1}} vs {{game.opp2}}</td>
+				<td>{{game.date}}</td>
+				<td>{{game.bg}}</td>
+				<td>{{game.dm}}</td>
+				<td>{{game.rt}}</td>
+				<td><input type="text" ng-model="game.rt" /></td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
+
