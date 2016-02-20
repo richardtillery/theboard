@@ -5,7 +5,7 @@ This project contains:
 <b>the-board-ui</b> - project containing all UI components for The Board (these components are stored in Amazon's S3 AWS service)
 This is an Eclipse 'Static Web Project.'
 
-The Board: <a href="tillery.s3-website-us-west-2.amazonaws.com">tillery.s3-website-us-west-2.amazonaws.com</a>
+The Board: <a href="http://tillery.s3-website-us-west-2.amazonaws.com">tillery.s3-website-us-west-2.amazonaws.com</a>
 
 # Getting Started:
 Fork this project!  

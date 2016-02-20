@@ -1,2 +1,37 @@
-[{"opp1":"Clemson", "opp2":"Bama", "date" : "Long Time Ago", "bg":"Bama", "dm":"Bama", "rt":"Clemson"},
-{"opp1":"CHox", "opp2":"Panthers", "date" : "Short Time Ago", "bg":"CHox", "dm":"CHox", "rt":"CHox"}]
+[
+	{
+		"text":"Peyton Manning situation: throwing rocks at the king, or genuine bad guy?",
+		"entries":[
+			{
+				"name":"All of America",
+				"text":"Bad guy"
+			},
+			{
+				"name":"Richard",
+				"text":"Both"
+			}
+			
+		]
+		
+	},
+	{
+		"text":"Who wins the Republican Nomination?",
+		"entries":[
+			{
+				"name":"Richard",
+				"text":"Mark Rubio"
+			}
+			
+		]		
+	},
+	{
+		"text":"Golden State: over or under 72 wins",
+		"entries":[
+			{
+				"name":"Richard",
+				"text":"Under"
+			}
+			
+		]		
+	}
+]
