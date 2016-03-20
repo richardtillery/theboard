@@ -25,13 +25,20 @@
 		]		
 	},
 	{
-		"text":"Golden State: over or under 72 wins",
+		"text":"Golden State wins",
 		"entries":[
 			{
+				"name":"BG",
+				"text":"72"
+			},			
+			{
+				"name":"Dave",
+				"text":"73"
+			},
+			{
 				"name":"Richard",
-				"text":"Under"
-			}
-			
+				"text":"70"
+			}			
 		]		
 	}
 ]
